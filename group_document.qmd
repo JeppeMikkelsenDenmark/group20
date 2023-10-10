@@ -31,6 +31,7 @@ Meningen med livet (er nok federe tekst end det her)
 # Anton
 
 ###Ganggang
+
 ```{r}
 
 print(rep('gang',5))
@@ -38,12 +39,9 @@ print(rep('gang',5))
 
 ```
 
-
-
 # Johan
 
-enter some text:
-some text
+enter some text: some text
 
 add a few code chunks with some R-code:
 
@@ -55,3 +53,6 @@ add a few code chunks with some R-code:
 21+20
 ```
 
+# New Feature
+
+Det her er den bedste branch
