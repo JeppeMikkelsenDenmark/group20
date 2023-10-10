@@ -6,7 +6,19 @@ editor: visual
 
 # Oscar
 
+My god! det virker!
+
+```{r}
+print("2+2 = Github")
+```
+
 # Jeppe
+
+I am the captain !
+
+```{r}
+print("hello crew")
+```
 
 # Line
 
