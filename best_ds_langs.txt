@@ -8,8 +8,4 @@ Top 10 Data Science Languages of ALL Time:
 4. has
 3. different
 2. tastes
-<<<<<<< HEAD
 1. java
-=======
-1. SAS
->>>>>>> 4d60c593ace23fbdd2d4be49dfbf1a6bc782ab48
