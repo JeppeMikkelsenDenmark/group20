@@ -25,10 +25,27 @@ biopsy <- read_csv("https://wilkelab.org/classes/SDS348/data_sets/biopsy.csv")
 ```
 
 ## Look at the data in PC coordinates (Anton og Johan)
+```{r}
+pca_fit <- biopsy |> 
+  select(where(is.numeric)) |>  # retain only numeric columns
+  prcomp(scale = TRUE) # do PCA on scaled data
+
+```
+
+```{r}
+pca_fit <- biopsy %>% 
+  select(where(is.numeric)) %>% # retain only numeric columns
+  scale() %>% # scale data
+  prcomp() # do PCA
+```
+
 
 ```{r}
 pca_fit %>%
   tidy(matrix = "eigenvalues")
 ```
+
+
+
 
 ## Look at the variance explained by each PC (Line og Oscar)
