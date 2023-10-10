@@ -20,6 +20,13 @@ I am the captain !
 print("hello crew")
 ```
 
+## New something
+
+```{r}
+test_vec <- seq(1:10)
+
+```
+
 # Line
 
 Meningen med livet (er nok federe tekst end det her)
