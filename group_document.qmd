@@ -45,10 +45,9 @@ Meningen med livet (er nok federe tekst end det her)
 
 # Anton
 
-
 ### Ganggang
-###Ganggang
 
+###Ganggang
 
 ```{r}
 
@@ -58,9 +57,11 @@ print(rep('gang',5))
 ```
 
 ####New feature
+
 ```{r}
 7*8
 ```
+
 #### NewNew new new ....
 
 # Johan
@@ -79,8 +80,8 @@ add a few code chunks with some R-code:
 
 # New Feature
 
-Det her er den bedste branch
-=======
+# Det her er den bedste branch
+
 ## New feature
 
 Enter some text, a few code chunks with a bit of R-code of your choosing and save the document
@@ -88,5 +89,3 @@ Enter some text, a few code chunks with a bit of R-code of your choosing and sav
 ```{r}
 print('new')
 ```
-
-

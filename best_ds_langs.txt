@@ -8,4 +8,8 @@ Top 10 Data Science Languages of ALL Time:
 4. has
 3. different
 2. tastes
+<<<<<<< HEAD
 1. Maplemaple
+=======
+1. Python
+>>>>>>> ef005c6ea3b62d11214cc881f13a73b81c101517
