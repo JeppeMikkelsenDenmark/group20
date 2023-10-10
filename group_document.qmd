@@ -13,3 +13,17 @@ editor: visual
 # Anton
 
 # Johan
+
+enter some text:
+some text
+
+add a few code chunks with some R-code:
+
+```{r}
+20+21
+```
+
+```{r}
+21+20
+```
+
