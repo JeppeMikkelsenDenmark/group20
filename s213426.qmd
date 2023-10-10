@@ -1,0 +1,13 @@
+---
+title: "s213426"
+format: html
+editor: visual
+---
+
+## 
+
+```{r}
+#usethis::use_git_config(user.name = "JeppeMikkelsenDenmark", user.email = "s213426@dtu.dk")
+
+#usethis::create_github_token()
+```
