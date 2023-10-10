@@ -6,6 +6,12 @@ editor: visual
 
 # Oscar
 
+My god! det virker!
+
+```{r}
+print("2+2 = Github")
+```
+
 # Jeppe
 
 # Line
