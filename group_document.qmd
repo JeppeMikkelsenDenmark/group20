@@ -20,6 +20,13 @@ I am the captain !
 print("hello crew")
 ```
 
+## New something
+
+```{r}
+test_vec <- seq(1:10)
+
+```
+
 # Line
 
 Meningen med livet (er nok federe tekst end det her)
@@ -28,9 +35,20 @@ Meningen med livet (er nok federe tekst end det her)
 5^2+4^2+1
 ```
 
+## New feature
+
+**Federe tekst men stadig det fedeste tal**
+
+```{r}
+42
+```
+
 # Anton
 
+
+### Ganggang
 ###Ganggang
+
 
 ```{r}
 
@@ -38,6 +56,12 @@ print(rep('gang',5))
 
 
 ```
+
+####New feature
+```{r}
+7*8
+```
+
 
 # Johan
 
@@ -56,3 +80,13 @@ add a few code chunks with some R-code:
 # New Feature
 
 Det her er den bedste branch
+=======
+## New feature
+
+Enter some text, a few code chunks with a bit of R-code of your choosing and save the document
+
+```{r}
+print('new')
+```
+
+
