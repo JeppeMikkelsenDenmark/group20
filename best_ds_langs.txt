@@ -8,4 +8,12 @@ Top 10 Data Science Languages of ALL Time:
 4. has
 3. different
 2. tastes
+<<<<<<< HEAD
 1. java
+=======
+<<<<<<< HEAD
+1. A Language Hej Hej 
+=======
+1. Python
+>>>>>>> ef005c6ea3b62d11214cc881f13a73b81c101517
+>>>>>>> 932bc21183d06631ce357567d02a1c6e00ffa5d0
