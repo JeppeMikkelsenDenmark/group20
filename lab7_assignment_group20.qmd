@@ -14,4 +14,9 @@ library(tidyverse)
 
 ## Look at the data in PC coordinates (Anton og Johan)
 
+```{r}
+pca_fit %>%
+  tidy(matrix = "eigenvalues")
+```
+
 ## Look at the variance explained by each PC (Line og Oscar)
