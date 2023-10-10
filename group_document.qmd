@@ -28,9 +28,18 @@ Meningen med livet (er nok federe tekst end det her)
 5^2+4^2+1
 ```
 
+## New feature
+
+**Federe tekst men stadig det fedeste tal**
+
+```{r}
+42
+```
+
 # Anton
 
 ###Ganggang
+
 ```{r}
 
 print(rep('gang',5))
@@ -38,12 +47,9 @@ print(rep('gang',5))
 
 ```
 
-
-
 # Johan
 
-enter some text:
-some text
+enter some text: some text
 
 add a few code chunks with some R-code:
 
@@ -54,4 +60,3 @@ add a few code chunks with some R-code:
 ```{r}
 21+20
 ```
-
