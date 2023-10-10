@@ -20,6 +20,13 @@ I am the captain !
 print("hello crew")
 ```
 
+## New something
+
+```{r}
+test_vec <- seq(1:10)
+
+```
+
 # Line
 
 Meningen med livet (er nok federe tekst end det her)
@@ -28,22 +35,36 @@ Meningen med livet (er nok federe tekst end det her)
 5^2+4^2+1
 ```
 
+## New feature
+
+**Federe tekst men stadig det fedeste tal**
+
+```{r}
+42
+```
+
 # Anton
 
+<<<<<<< HEAD
 ### Ganggang
+=======
+###Ganggang
+
+>>>>>>> 9b9a1f0e867eda6f7134109b134e8abcd56aabaf
 ```{r}
 
 print(rep('gang',5))
 
 
 ```
-
-
+####New feature
+```{r}
+7*8
+```
 
 # Johan
 
-enter some text:
-some text
+enter some text: some text
 
 add a few code chunks with some R-code:
 
@@ -53,5 +74,13 @@ add a few code chunks with some R-code:
 
 ```{r}
 21+20
+```
+
+## New feature
+
+Enter some text, a few code chunks with a bit of R-code of your choosing and save the document
+
+```{r}
+print('new')
 ```
 
