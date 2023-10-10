@@ -37,6 +37,10 @@ print(rep('gang',5))
 
 
 ```
+####New feature
+```{r}
+7*8
+```
 
 
 
