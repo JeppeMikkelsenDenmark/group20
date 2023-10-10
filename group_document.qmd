@@ -10,6 +10,12 @@ editor: visual
 
 # Line
 
+Meningen med livet
+
+```{r}
+5^2+4^2+1
+```
+
 # Anton
 
 # Johan
