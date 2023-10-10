@@ -22,7 +22,7 @@ print("hello crew")
 
 # Line
 
-Meningen med livet
+Meningen med livet (er nok federe tekst end det her)
 
 ```{r}
 5^2+4^2+1
