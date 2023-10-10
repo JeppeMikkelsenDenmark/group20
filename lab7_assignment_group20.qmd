@@ -8,8 +8,20 @@ editor: visual
 
 ## **Data & library Import (Jeppe)**
 
+### Import libraries
+
 ```{r}
 library(tidyverse)
+library(broom)  # devtools::install_github("tidymodels/broom")
+library(cowplot)
+
+
+```
+
+### Import data
+
+```{r}
+biopsy <- read_csv("https://wilkelab.org/classes/SDS348/data_sets/biopsy.csv")
 ```
 
 ## Look at the data in PC coordinates (Anton og Johan)
