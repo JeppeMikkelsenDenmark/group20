@@ -1,0 +1,17 @@
+---
+title: "lab7_assignment"
+format: html
+editor: visual
+---
+
+# PCA Tidyverse style
+
+## **Data & library Import (Jeppe)**
+
+```{r}
+library(tidyverse)
+```
+
+## Look at the data in PC coordinates (Anton og Johan)
+
+## Look at the variance explained by each PC (Line og Oscar)
