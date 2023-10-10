@@ -30,4 +30,14 @@ Meningen med livet (er nok federe tekst end det her)
 
 # Anton
 
+###Ganggang
+```{r}
+
+print(rep('gang',5))
+
+
+```
+
+
+
 # Johan
