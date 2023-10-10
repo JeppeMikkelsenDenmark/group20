@@ -55,3 +55,11 @@ add a few code chunks with some R-code:
 21+20
 ```
 
+## New feature
+
+Enter some text, a few code chunks with a bit of R-code of your choosing and save the document
+
+```{r}
+print('new')
+```
+
