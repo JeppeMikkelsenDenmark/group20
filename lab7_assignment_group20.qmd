@@ -33,7 +33,7 @@ pca_fit <- biopsy |>
   prcomp(scale = TRUE) # do PCA on scaled data
 ```
 
-Next, we want to plot the obtained coordinates from the PCA. We want to see the coordinates projected onto principal component 1 and 2. We augment to get the categorigal variable (benign/malignant) from the original dataset assigned to the datapoints from the PCA.
+Next, we want to plot the obtained coordinates from the PCA. We want to see the coordinates projected onto principal component 1 and 2. We augment to get the categorigal variable (benign/malignant) from the original dataset assigned to the datapoints from the PCA..
 
 ```{r}
 pca_fit  |> 
