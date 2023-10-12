@@ -53,3 +53,5 @@ pca_fit |>
 
 
 ```
+
+From the Principal components analysis it is clear that the first principal component explains 65% of the variance in the data, while all other principle components capture far less.
